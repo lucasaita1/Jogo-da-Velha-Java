@@ -16,10 +16,16 @@
 4️⃣ Caso alguém vença ou o tabuleiro fique cheio, o jogo exibe o resultado e termina.
 
 🛠️ Tecnologias utilizadas
-	•	Java
-	•	Scanner (entrada de usuário)
-	•	Arrays bidimensionais
-	•	Condicionais e loops
+
+
+ • Java
+
+ • Scanner (entrada de usuário)
+
+ • Arrays bidimensionais
+
+ • Condicionais e loops
+
 
 📌 Melhorias futuras
 
